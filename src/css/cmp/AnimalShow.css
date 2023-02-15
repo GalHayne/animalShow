@@ -1,0 +1,13 @@
+.animalImg{
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.animalsContainer{
+    height: 94vh;
+    width: 94vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
